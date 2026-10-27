@@ -1,2 +1,7 @@
 # resumo_links_sisi
-Página para divulgar links de uma loja.
+
+Página para divulgação de links externos.
+
+## Landing Page
+
+![Imagem da Página](./assets/img.png)
