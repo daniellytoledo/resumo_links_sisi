@@ -134,7 +134,7 @@ a {
 }
 
 .link-button.primary:hover {
-  background: #8c625a;
+  background: #b07443;
 }
 
 .button-icon {
@@ -304,7 +304,7 @@ a {
 
 .cta-button:hover {
   transform: translateY(-2px);
-  background: #8c625a;
+  background: #e5aa6c;
 }
 
 footer {
